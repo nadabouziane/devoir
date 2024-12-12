@@ -1,0 +1,5 @@
+[
+        { "id": 1, "date": "2024-12-12", "amount": 100, "customer_id": 101 },
+        { "id": 2, "date": "2024-12-12", "amount": 200, "customer_id": 102 },
+        { "id": 3, "date": "2024-12-12", "amount": 150, "customer_id": 999 }
+]
